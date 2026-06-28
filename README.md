@@ -1,12 +1,9 @@
-### Hi there, I'm Riddhi 👋
+##Hi there, I'm Riddhi 👋
+🎓 Electronics & Telecommunication Engineering student at BVCOE, Navi Mumbai
 
-🎓 Electronics & Telecommunication Engineering Student turned **AI/ML Enthusiast**  
-💡 Passionate about **Python, Data Science, and Machine Learning**  
-🔭 Projects I've worked on:
-- **Rainfall Prediction using Machine Learning**
-- **Autism Prediction using Machine Learning**
-- **Email Spam Classifier**
+☁️ Aspiring Cloud Data Engineer | Passionate about building scalable data pipelines and cloud infrastructure
+🌱 Currently learning: SQL, Python for data engineering, AWS cloud fundamentals
 
-🌱 Currently learning: **Deep Learning, NLP, AI Model Deployment, and building real-world ML projects**  
-📫 Reach me at: [riddhigm18@gmail.com](mailto:riddhigm18@gmail.com)  
-🌐 Portfolio:https://riddhimundle.vercel.app/
+🎯 Working toward: Data pipelines · dbt · Spark · Cloud platforms (AWS)
+📫 Reach me at: riddhigm18@gmail.com
+
