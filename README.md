@@ -7,5 +7,5 @@
 🎯 Working toward: Data pipelines · dbt · Spark · Cloud platforms (AWS)
 
 📫 Reach me at: [riddhigm18@gmail.com](mailto:riddhigm18@gmail.com)
-🌐 Portfolio: [riddhimundle.vercel.app](https://riddhimundle.vercel.app/)
+
 
